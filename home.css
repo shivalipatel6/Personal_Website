@@ -1,0 +1,19 @@
+html, body { margin: 0; padding: 0; } 
+
+.blue_square {
+    height: 150px;
+    width: 150px;
+    background-color: #050573;
+
+}
+
+.blue_rectangle{
+    height: 129px;
+    width: 1116px;
+    background-color: #050573;
+    position: relative;
+    left: 30px;
+    top: 300px;
+
+
+}
